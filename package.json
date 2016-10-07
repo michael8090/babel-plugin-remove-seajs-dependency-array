@@ -1,0 +1,24 @@
+{
+  "name": "babel-plugin-remove-seajs-dependency-array",
+  "version": "1.0.0",
+  "description": "remove the dependency array in the `require` of seajs, to keep the arguments the same with commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michael8090/babel-plugin-remove-seajs-dependency-array.git"
+  },
+  "keywords": [
+    "babel",
+    "webpack",
+    "seajs"
+  ],
+  "author": "Huang Yong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michael8090/babel-plugin-remove-seajs-dependency-array/issues"
+  },
+  "homepage": "https://github.com/michael8090/babel-plugin-remove-seajs-dependency-array#readme"
+}
